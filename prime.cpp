@@ -1,6 +1,6 @@
 /** Prgram to detect prime number
  Author : Amol Ambkar
- PRN : 10303320181124510011 **/
+ **/
  
 #include <iostream>
 using namespace std;
