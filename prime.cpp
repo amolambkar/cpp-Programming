@@ -1,6 +1,5 @@
-/** Prgram to detect prime number
- Author : Amol Ambkar
- **/
+// Prgram to detect prime number
+ 
  
 #include <iostream>
 using namespace std;
